@@ -1,41 +1,27 @@
-<!--
-**Acksout/Acksout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hi, I'm Rakshit! 👋
+
+### ~ "Code is like humor. When you have to explain it, it's bad." - Cory House
 
 ## 🚀About Me🚀
 
-### As a full stack developer, I take pride in crafting comprehensive and structured code, which in turn contributes to making the digital world a more beautiful and organized place. 🤖
+### As a computer science undergrad and full-stack dev, I’m basically a digital architect who loves turning lines of code into pixel-perfect creations. I take pride in taming the chaos of the digital world, one bug at a time—building organized, beautiful solutions that make the internet feel like a tidy virtual utopia. 🌍✨ Let's be honest, crafting clean, structured code is my kind of art. 👾
 
 #### ❓What's Happening?❓
 
-##### - Currently learning Typescript
+##### - Currently learning Python
 
-##### - Working on..
+##### - Working on a few projects
 
-##### - In my final year of college
+##### - Contributing to Open Source
 
 # 🛠️Skills
-
-### ~ A Good Craftsman Never Blames His Tools
 
 ### Languages:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Frameworks:
 
@@ -57,6 +43,8 @@ Here are some ideas to get you started:
 ### Database:
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Misc:
 
@@ -75,5 +63,3 @@ Here are some ideas to get you started:
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/Rakshit1337)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Acksout)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakshit_bhardwaj@outlook.com)
-
-<!-- ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) -->
