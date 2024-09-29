@@ -4,7 +4,7 @@
 
 ## 🚀About Me🚀
 
-### As a computer science undergrad and full-stack dev, I’m basically a digital architect who loves turning lines of code into pixel-perfect creations. I take pride in taming the chaos of the digital world, one bug at a time—building organized, beautiful solutions that make the internet feel like a tidy virtual utopia. 🌍✨ Let's be honest, crafting clean, structured code is my kind of art. 👾
+### CS Undergrad, Full-Stack Dev, Open Source Enthusiast, Ai/ML Hobbyist. Running LLMs locally is awesome!
 
 #### ❓What's Happening?❓
 
